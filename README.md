@@ -2,6 +2,8 @@
 <h3 align="center">I'm junior Software Developer 💻!!</h3>
 <img width="35%" align="right" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium" alt="cute cat getting some work done" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=temoc1n&label=Profile%20views&color=0e75b6&style=flat" alt="temoc1n" /> </p>
+
 - 🌱 I’m currently learning **Javascript, C#, Django, React, Vue**
 
 - ⚡ Fun fact **I'm a great artist 🎨**
